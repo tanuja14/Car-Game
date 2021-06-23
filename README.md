@@ -1,5 +1,5 @@
 # Car-Game
 An interesting JavaScript CarGame.
 
-# Screenshots
-<img src="CargameScreenshot.png">
+# Screenshot
+<img src="CargameScreenshot2.png">
