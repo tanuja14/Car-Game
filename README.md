@@ -1,5 +1,5 @@
 # Car-Game
-An interesting car game to kill boredom.
+An interesting JavaScript CarGame.
 
 # Screenshots
-<img src="">
+<img src="CargameScreenshot.png">
