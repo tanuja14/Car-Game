@@ -1,5 +1,5 @@
 # Car-Game
-An interesting JavaScript CarGame.
+An interesting CarGame made using JavaScript .
 
 # Screenshot
 <img src="CargameScreenshot2.png">
